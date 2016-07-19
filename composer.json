@@ -31,7 +31,7 @@
 	},
 
 	"autoload" : {
-		"files" : ["adodb.inc.php"]
+		"files" : ["adodb.ondemand.php"]
 	}
 
 }
